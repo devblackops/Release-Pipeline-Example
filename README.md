@@ -12,13 +12,21 @@ A ```psake``` script has been created to manage the various operations related t
 ### Build Operations
 
 * Test the script via Pester and Script Analyzer  
-```.\build.ps1```
+```powershell
+.\build.ps1
+```
     
 * Test the script with Pester only  
-```.\build.ps1 -Task Test```
+```powershell
+.\build.ps1 -Task Test
+```
     
 * Test the script with Script Analyzer only  
-```.\build.ps1 -Task Analyze```
+```powershell
+.\build.ps1 -Task Analyze
+```
     
 * Deploy the script via PSDeploy  
-```.\build.ps1 -Task Deploy```
+```powershell
+.\build.ps1 -Task Deploy
+```
