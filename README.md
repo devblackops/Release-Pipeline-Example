@@ -1,5 +1,5 @@
 ## About
-Author: Brandon Olin [[devblackops.io]()]
+Author: Brandon Olin [[devblackops.io](https://devblackops.io)]
 
 ## Overview
 An example of using the Release Pipeline Model with PowerShell-based tools. This repository hosts the ```ServerInfo.ps1``` 
