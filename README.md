@@ -9,7 +9,8 @@ tasks for day to day operations and deployment of the script.
 ## Usage
 A ```psake``` script has been created to manage the various operations related to testing and deployment of ```ServerInfo.ps1```
 
-### Build Operations  
+### Build Operations
+
 * Test the script via Pester and Script Analyzer  
     ```.\build.ps1```
     
