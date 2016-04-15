@@ -1,5 +1,5 @@
 [cmdletbinding()]
-#[OutputType([pscustomobject])] ### <--- We've commented out the output type
+[OutputType([pscustomobject])]
 param(    
     [parameter(mandatory)]
     [string[]]$ComputerName,
